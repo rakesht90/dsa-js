@@ -1,0 +1,26 @@
+{
+  "name": "dsa",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rakesht90/dsa-js.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/rakesht90/dsa-js/issues"
+  },
+  "homepage": "https://github.com/rakesht90/dsa-js#readme",
+  "description": "",
+  "devDependencies": {
+    "eslint": "^9.28.0",
+    "nodemon": "^3.1.10",
+    "prettier": "^3.5.3"
+  }
+}
